@@ -1,1 +1,39 @@
+# General
+.DS_Store
+*.log
+*.tmp
+
+# Build folders
+build/
+Debug/
+Release/
+
+# CCS / TI
+.settings/
+.metadata/
+*.launch
+
+# Make / GCC
+*.o
+*.out
+*.elf
+*.map
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# KiCad
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-cache.lib
+
+# EasyEDA exports
+*.zip
+
+# Temporary firmware binaries
+firmware/bin/
+firmware/build/
 
