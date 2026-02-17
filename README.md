@@ -81,7 +81,7 @@ Keep PRs small and focused. If you change behavior, add a short note in `docs/br
 ---
 
 ## License
-
+MIT License – see LICENSE file.
 
 ---
 
